@@ -140,22 +140,22 @@ This project is licensed under the MIT License.
 ---
 ## 📸 Quiz_Game Demo 
 
-### Step 1  
+### Step 1 – Launching the Quiz 
 ![Step 1](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/1.png)
 
-### Step 2  
+### Step 2 - The first multiple-choice question is displayed with four options (a/b/c/d).
 ![Step 2](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/2.png)
 
-### Step 3  
+### Step 3 - User selects an incorrect answer. A manual hint is shown to guide the next attempt.
 ![Step 3](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/3.png)
 
-### Step 4  
+### Step 4 - User selects another incorrect answer. The AI (Gemini) generates and displays the correct answer.
 ![Step 4](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/4.png)
 
-### Step 5  
+### Step 5 - User selects the correct option, and the system confirms with a "✅ Correct!" message.
 ![Step 5](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/5.png)
 
-### Step 6  
+### Step 6 - All questions are answered. The final score is shown out of 3 along with a performance message.
 ![Step 6](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/6.png)
 
 
