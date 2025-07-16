@@ -1,6 +1,6 @@
 # QuizGame\_TeamByteBrains
 
-This project is a simple AI-powered quiz game developed by **ByteBrains**. It runs in the terminal and challenges users with multiple-choice questions, providing hints and AI-generated answers to help users learn effectively.
+This project is a simple AI-powered quiz game developed by our Team **ByteBrains**. It runs in the terminal and challenges users with multiple-choice questions, providing hints and AI-generated answers to help users learn effectively.
 
 ---
 
@@ -99,8 +99,7 @@ export GEMINI_API_KEY="your_api_key_here"
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/yourusername/quiz-game.git
-cd quiz-game
+https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains
 ```
 
 2. Set your Gemini API key in your terminal:
