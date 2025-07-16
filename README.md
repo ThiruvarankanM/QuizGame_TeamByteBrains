@@ -138,5 +138,25 @@ We welcome contributions! Feel free to add new questions, improve AI interaction
 This project is licensed under the MIT License.
 
 ---
+## 📸 Quiz_Game Demo 
 
-If you want, I can prepare the full markdown file ready for GitHub — just ask!
+### Step 1  
+![Step 1](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/1.png)
+
+### Step 2  
+![Step 2](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/2.png)
+
+### Step 3  
+![Step 3](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/3.png)
+
+### Step 4  
+![Step 4](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/4.png)
+
+### Step 5  
+![Step 5](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/5.png)
+
+### Step 6  
+![Step 6](https://github.com/ThiruvarankanM/QuizGame_TeamByteBrains/blob/28c45491939ec67d4979f25d1d93d2f56f2e942a/QuizGame_Run_Demo/6.png)
+
+
+
